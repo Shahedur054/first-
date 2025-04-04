@@ -1,0 +1,20 @@
+
+========================================
+Customer Details:
+Name: hghahyygwHGWJR
+Address: JIQIQIH,UEQY
+Birthdate: 24-09-1942
+Gender: Male
+Mobile: 01388352458
+Email: hskjhssh@gmail.com
+
+Purchase History:
+Date: 27-03-2025 17:13:01
+Items Purchased:
+- Casual Top (S) x5 - 4750.00 tk
+- Sports T-Shirt (M) x3 - 3600.00 tk
+Subtotal: 8350.00 tk
+Discount (13%): -1085.50 tk
+Tax (5%): +363.23 tk
+GRAND TOTAL: 7627.73 tk
+========================================
